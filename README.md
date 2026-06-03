@@ -20,7 +20,7 @@ What sets me apart is my ability to combine a solid mathematical foundation with
 
 ### 🚀 Featured Open-Source Projects
 
-#### 🛒 [Asian Grocery AI Assistant](https://github.com/Sid-240202/Asian-Grocery-AI-Assistant) 
+#### 🛒 [SmartCart AI Grocery Store RAG Agent](https://github.com/Sid-240202/Asian-Grocery-AI-Assistant) 
 A RAG-driven conversational agent providing real-time product recommendations and context-aware ingredient insights.
 * Built an automated ETL pipeline to ingest inventory data from Google Sheets into a **FAISS vector store** using Hugging Face embeddings.
 * Orchestrated semantic similarity search tools using **LangChain** and **Groq (Llama-3.3-70B)**.
