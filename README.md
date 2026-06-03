@@ -20,17 +20,17 @@ What sets me apart is my ability to combine a solid mathematical foundation with
 
 ### 🚀 Featured Open-Source Projects
 
-#### 🛒 [Asian Grocery AI Assistant](https://github.com/Sid-240202/Asian-Grocery-AI-Assistant) *(Update link if different)*
+#### 🛒 [Asian Grocery AI Assistant](https://github.com/Sid-240202/Asian-Grocery-AI-Assistant) 
 A RAG-driven conversational agent providing real-time product recommendations and context-aware ingredient insights.
 * Built an automated ETL pipeline to ingest inventory data from Google Sheets into a **FAISS vector store** using Hugging Face embeddings.
 * Orchestrated semantic similarity search tools using **LangChain** and **Groq (Llama-3.3-70B)**.
 
-#### 📝 [OrangeSum: AI-Powered Text Summarizer](https://github.com/Sid-240202/OrangeSum) *(Update link if different)*
+#### 📝 [OrangeSum: AI-Powered Text Summarizer](https://github.com/Sid-240202/OrangeSum) 
 A full-stack text summarization web application that generates abstractive summaries for conversational dialogues.
 * Fine-tuned a **Hugging Face T5-small transformer** model on the SamSum dataset for 6 epochs.
 * Optimized backend performance through hardware-aware inference (**CUDA/MPS/CPU**) and deployed via **FastAPI**.
 
-#### 📊 [Sentiment-Analysis using RNN](https://github.com/Sid-240202/Sentiment-Analysis-RNN) *(Update link if different)*
+#### 📊 [Sentiment-Analysis using RNN](https://github.com/Sid-240202/Sentiment-Analysis-RNN) 
 A deep learning classification system achieving **85% accuracy** on 50,000 IMDB reviews.
 * Built a text preprocessing pipeline using regex, Porter Stemming, and TF-IDF vectorization to map 5,000 numerical features.
 * Designed a custom **PyTorch RNN architecture** (128 hidden units) optimized via Adam and BCELoss.
@@ -51,7 +51,7 @@ A deep learning classification system achieving **85% accuracy** on 50,000 IMDB 
 ---
 
 ### 🤝 Connect With Me
-* 💼 **LinkedIn:** [linkedin.com/in/siddharth-pal](https://www.linkedin.com) *(Add your exact URL suffix here!)*
+* 💼 **LinkedIn:** [linkedin.com/in/siddharth-pal](https://www.linkedin.com) 
 * 📧 **Email:** siddharth.pal2402@gmail.com
 * 📍 **Location:** Gorakhpur, Uttar Pradesh, India
 
